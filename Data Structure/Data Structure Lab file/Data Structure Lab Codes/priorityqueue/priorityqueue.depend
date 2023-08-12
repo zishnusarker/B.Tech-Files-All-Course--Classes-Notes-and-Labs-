@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605246200 source:/home/zishnu/dtu/ds lab/priorityqueue/main.cpp
+	<stdio.h>
+	<stdlib.h>
+

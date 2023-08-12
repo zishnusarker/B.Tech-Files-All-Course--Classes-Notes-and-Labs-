@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603430207 source:/home/zishnu/dtu/ds lab/linkedlistsorted/main.c
+	<stdio.h>
+	<stdlib.h>
+
