@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606546333 source:/home/zishnu/dtu/ds lab/dijkstra 2/main.cpp
+	<limits.h>
+	<stdio.h>
+

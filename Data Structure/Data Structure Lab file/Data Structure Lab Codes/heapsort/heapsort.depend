@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605246296 source:/home/zishnu/dtu/ds lab/heapsort/main.cpp
+	<stdio.h>
+	<stdlib.h>
+
