@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634543430 source:d:\dtu\5 th sem\mooc\competitive programmers core skills\week 1 assignment\increment\main.cpp
+	<iostream>
+	<vector>
+	<climits>
+

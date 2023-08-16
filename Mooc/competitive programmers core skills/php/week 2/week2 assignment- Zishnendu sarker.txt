@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<title> ... 2K19/SE/037 DHRUBA DATTA 25168a ... </title>
+<title>... ZISHNENDU SARKER 537524 ...</title>
+</head>
+<body>
+<em>This page is made by Zishnendu Sarker</em>
+<div style="color:#1DC7CD">
+<h1><strong> B<span style="color:red">M</span>W </strong></h1>
+</div>
+<p><img src="bmw.jpg" alt="Image OF BMW"></p>
+<h4>&lt; Top Specification And Features &gt;</h4>
+<ul>
+
+<li><h3> Metallic Body</h3></li>
+<li><h3>Black Colour</h3></li>
+<li><h3> Touch Screen</h3></li>
+
+
+<li> <a href="https://www.bmw.com">To visit pages of BMW.com!</a></li>
+<li> <a href="https://www.bmw.in">to visit bmw available in India gmail.com!</a></li>
+<li> <a href="https://www.bmwusa.com">To visit bmw availabel in USA</a></li>
+</ul>
+</body>
+</html>
