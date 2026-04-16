@@ -25,10 +25,10 @@
 
 This repository is a **personal academic archive** containing lecture notes, lab exercises, assignments, and course materials from my **4-year B.Tech in Computer Science & Engineering** program. It's organized by subject for easy reference and serves as:
 
-- 📝 **My personal study archive** — all course materials in one place
-- 🎓 **A resource for fellow students** — especially those in similar programs
-- 📚 **Reference for future revision** — concepts, code, and solved problems
-- 🔍 **A searchable repository** — browse by subject and find relevant materials
+- 📝 **My personal study archive** - all course materials in one place
+- 🎓 **A resource for fellow students** - especially those in similar programs
+- 📚 **Reference for future revision** - concepts, code, and solved problems
+- 🔍 **A searchable repository** - browse by subject and find relevant materials
 
 > 💡 **Note:** This is an academic resource repository, not a typical coding project. The content includes handwritten/typed notes, lab files, assignments, and reference materials curated throughout my degree.
 
@@ -137,10 +137,10 @@ Click on any file → "Download raw file" or use GitHub's download functionality
 
 This archive represents **4 years of B.Tech CSE coursework**, organized and preserved for:
 
-- ✅ **Personal reference** — for revisiting concepts during interviews or work
-- ✅ **Educational value** — helping current students navigate similar coursework
-- ✅ **Portfolio evidence** — demonstrating the breadth of my academic foundation
-- ✅ **Open knowledge sharing** — because good notes should be shared
+- ✅ **Personal reference** - for revisiting concepts during interviews or work
+- ✅ **Educational value** - helping current students navigate similar coursework
+- ✅ **Portfolio evidence** - demonstrating the breadth of my academic foundation
+- ✅ **Open knowledge sharing** - because good notes should be shared
 
 ---
 
@@ -151,8 +151,8 @@ This archive represents **4 years of B.Tech CSE coursework**, organized and pres
 > - This is a **personal study archive**, not official course material
 > - Notes may contain **errors, incomplete sections, or outdated information**
 > - Code solutions are **my own implementations** and may not match "textbook" answers
-> - Use this as **reference and supplementary material only** — always verify with your course textbooks and professors
-> - **Academic integrity matters**: Do NOT directly copy assignments or lab submissions — use this only to understand concepts and learn
+> - Use this as **reference and supplementary material only** - always verify with your course textbooks and professors
+> - **Academic integrity matters**: Do NOT directly copy assignments or lab submissions - use this only to understand concepts and learn
 
 ---
 
@@ -169,12 +169,12 @@ Found an error in the notes? Have additional materials to share? Feel free to:
 
 Explore other repositories showcasing projects from my B.Tech journey:
 
-- 🧠 [**Alzheimer Detection**](https://github.com/zishnusarker/Alzheimer-Detection) — CO324 discrete math project
-- 🔗 [**Discrete Mathematics**](https://github.com/zishnusarker/Discrete-Mathematics) — Dijkstra's algorithm study
-- 🍕 [**Food Ordering System**](https://github.com/zishnusarker/Food-Ordering-System) — 3rd sem OOP project
-- 🚌 [**Bus Ticket Reservation**](https://github.com/zishnusarker/Bus-Ticket-Reservation) — Android development
-- 🤟 [**Sign Language Detection (YOLOv5)**](https://github.com/zishnusarker/Sign-Language-Detection-Using-YOLO-V5) — Final year project
-- 💻 [**GitHub Profile**](https://github.com/zishnusarker) — All projects
+- 🧠 [**Alzheimer Detection**](https://github.com/zishnusarker/Alzheimer-Detection) - CO324 discrete math project
+- 🔗 [**Discrete Mathematics**](https://github.com/zishnusarker/Discrete-Mathematics) - Dijkstra's algorithm study
+- 🍕 [**Food Ordering System**](https://github.com/zishnusarker/Food-Ordering-System) - 3rd sem OOP project
+- 🚌 [**Bus Ticket Reservation**](https://github.com/zishnusarker/Bus-Ticket-Reservation) - Android development
+- 🤟 [**Sign Language Detection (YOLOv5)**](https://github.com/zishnusarker/Sign-Language-Detection-Using-YOLO-V5) - Final year project
+- 💻 [**GitHub Profile**](https://github.com/zishnusarker) - All projects
 
 ---
 
@@ -183,5 +183,5 @@ Explore other repositories showcasing projects from my B.Tech journey:
 </p>
 
 <p align="center">
-  <strong>Education is the most powerful weapon which you can use to change the world. — Nelson Mandela</strong>
+  <strong>Education is the most powerful weapon which you can use to change the world. - Nelson Mandela</strong>
 </p>
