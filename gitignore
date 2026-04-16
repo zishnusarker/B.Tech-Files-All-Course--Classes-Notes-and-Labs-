@@ -1,0 +1,45 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Microsoft Word backup files
+~$*.doc
+~$*.docx
+~$*.ppt
+~$*.pptx
+~$*.xls
+~$*.xlsx
+
+# PDF backup files
+*.pdf.bak
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Archives (usually unnecessary — prefer extracted content)
+*.zip
+*.tar.gz
+*.rar
+# Comment above lines if you want to track compressed archives
+
+# Python (if any code is added)
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node (if any web content is added)
+node_modules/
